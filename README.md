@@ -1,12 +1,12 @@
 Blueprint
-====
+=========
 
 Blueprint is a rapid prototyping framework based on [Apple Keynote](http://www.apple.com/uk/iwork/keynote/)
 
 Using the pre-built icons, toolbars and widgets you can quickly and easily visualise ideas and export them to prototyping apps for testing, such as [Flinto](https://www.flinto.com).
 
 Theme Setup
-====
+=========
 
 Setup is easy and quick even if you aren't familiar with Keynote.
 
@@ -21,11 +21,11 @@ Once you have saved it, quit Keynote. Open Keynote and go to the "New from theme
 Repeat for each theme you want to import.
 
 Using The Tools
-====
+=========
 Once you have the theme running, simple open the blueprint keynote file(s) you wish to use and drag the interface elements over to your file to custom create your app.
 
 Roadmap
-====
+=========
 Don't forget to follow me @vincentp to keep posted on future updates to the project!
 
 Happy UX'ing :-)
