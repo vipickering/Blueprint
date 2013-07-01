@@ -26,6 +26,6 @@ Once you have the theme running, simple open the blueprint keynote file(s) you w
 
 Roadmap
 =========
-Don't forget to follow me [@vincentp](http://www.twitter.com/vincentp) to keep posted on future updates to the project!
+Don't forget to follow me [@vipickering](http://www.twitter.com/vipickering) to keep posted on future updates to the project!
 
 Happy UX'ing :-)
